@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+ text-align: center; 
+ width:100% ; 
+ border: 2px solid grey;
+ box-shadow: 5px 5px 5px 5px;
+background-color: lightgray;
+color: blue;
+padding: 30px;
+padding-bottom: 50px;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+#h1{
+    font: size 50px; ;
+    margin-bottom: 30px;
+}
+#para{
+    font-size: 25px;
+}
+#btn{
+    text-align: center;
+    
+
+}
+#button{
+    width: 100px;
+    height: 50px;
+    background-color: lightslategrey;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+}
+#buttonSecond{
+    width: 130px;
+    height: 50px;
+    background-color: lightslategrey;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+
+}
+#img{
+    width: 35%;
+    height: 100vh;
+    
+}
+#light_bulb{
+    text-align: center;
+
+}
